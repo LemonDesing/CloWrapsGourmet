@@ -167,7 +167,7 @@ section{ background: #404242; height: 260px; width:auto; color: #fff; }
 
 	.grid.team div{margin: 0;padding: 0;}
 	figure.effect-chico figcaption {padding: 1.5em;}
-	.footer{margin-top: 2em;}
+	.footer{margin-top: 2em; padding-botton: 2em;}
 	#icon{margin-top: 40px; height: 200px;}
 	#icon h3{ font-size: 15px;}
 }
