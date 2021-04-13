@@ -197,6 +197,7 @@ section{ background: #404242; height: 260px; width:auto; color: #fff; }
 @media (max-width: 349px){
 	#works h2{margin-top: 120px;}
 	*{ margin: 0; padding: 0;}
+	section{ height: 150px; padding-left: 20px;}
 
 
 }
