@@ -86,7 +86,7 @@ p{font-size:1.4em;line-height: 1.7em; margin-bottom: 1.7em; }
 .contactform textarea,.contactform input{width: 100%;padding:1em;border:1px solid #ccc;margin-bottom: 1em;border-radius: 0;outline: none;}
 /*contact*/
 
-section{ background: #404242; height: 200px; width:auto; color: #fff; }
+section{ background: #404242; height: 240px; width:auto; color: #fff; }
 #icon{display: flex; align-items: center; justify-content: center; flex-direction: column; text-align: center;}
 #icon h3{ font-size: 3rem; text-transform: capitalize; line-height: 3rem;}
 .footer-botton p{max-width: 500px; font-size: 5px; font-size: 10px;}
